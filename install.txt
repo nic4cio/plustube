@@ -1,0 +1,7 @@
+node -v
+npm -v
+npm install next react react-dom
+npm install styled-components
+
+in vscode: install styled-components extension
+ 
